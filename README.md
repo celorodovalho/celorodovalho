@@ -104,7 +104,14 @@ Feel free to take a look at my portfolio and drop me a message.
     />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@celorodovalho/d44e7356-0121-4cc4-8e39-c4f3f51ffb17.png" width="49%" style="float: left"/>
+  </a>
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@celorodovalho/2772bc59-44af-403c-9b51-808be7a95d60.png" width="49%" />
+  </a>
+</p>
 ---
 
 ![Profile views](https://gpvc.arturio.dev/celorodovalho)  
