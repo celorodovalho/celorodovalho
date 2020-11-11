@@ -1,6 +1,33 @@
 ![I am Software Developer](https://rodovalho.dev/img/logo-large.59fa6dbf.svg)
 
-Hi there, my name is Marcelo. I like to develop creative and innovative projects. I always seek to implement standardized and documented codes that are easy to maintain. Feel free to enjoy my portfolio and get in touch.
+Hi there, my name is Marcelo. I'm a Softwre Engineer focused on web development.
+My soft skills includes versatility, persistence, curiosity, resilience. I like to develop creative projects that explore new technologies and trends, using good practices and well-documented codes, easy to maintain.
+Feel free to take a look at my portfolio and drop me a message.
+
+- 👨‍💻 Software Architect / Web Developer
+- 🇧🇷 From Brazil
+- 🇳🇱 Living on Netherlands
+- 🌷 Reformed
+
+---
+
+<p align="center">
+  <a href="https://github.com/celorodovalho/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=celorodovalho&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/celorodovalho/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=celorodovalho&show_icons=true"
+    />
+  </a>
+</p>
+
+---
 
 ![](https://img.shields.io/badge/&#8203;-PHP-informational?style=flat&logo=php&logoColor=white&color=29b6f6)
 ![](https://img.shields.io/badge/&#8203;-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=29b6f6)
@@ -60,13 +87,24 @@ Hi there, my name is Marcelo. I like to develop creative and innovative projects
 [![WhatsApp](http://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/31624830543)
 [![Skyoe](http://img.shields.io/badge/-Skype-00AFF0?style=for-the-badge&logo=Skype&logoColor=white)](https://t.me/se45ky)
 
-## &#x1f4c8; GitHub Stats
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=celorodovalho&show_icons=true&count_private=true)  
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=celorodovalho&show_icons=true&count_private=true)  
+<p align="center">
+  <a href="https://github.com/celorodovalho/github-readme-stats">
+    <img
+      align="center"
+      src="https://metrics.lecoq.io/celorodovalho"
+    />
+  </a>
+  <a href="https://github.com/celorodovalho/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=celorodovalho"
+    />
+  </a>
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/celorodovalho)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=celorodovalho)  
+---
 
 ![Profile views](https://gpvc.arturio.dev/celorodovalho)  
