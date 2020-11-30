@@ -75,6 +75,10 @@ Feel free to take a look at my portfolio and drop me a message.
 ![](https://img.shields.io/badge/&#8203;-Telegram_API-informational?style=flat&logo=telegram&logoColor=white&color=29b6f6)
 ![](https://img.shields.io/badge/&#8203;-PHPStorm-informational?style=flat&logo=webstorm&logoColor=white&color=29b6f6)
 ![](https://img.shields.io/badge/&#8203;-Linux-informational?style=flat&logo=linux&logoColor=white&color=29b6f6)
+[![time tracker](https://wakatime.com/badge/gitlab/celorodovalho/api.marcelorodovalho.com.svg)](https://wakatime.com/badge/gitlab/celorodovalho/api.marcelorodovalho.com)
+[![time tracker](https://wakatime.com/badge/gitlab/celorodovalho/admin.marcelorodovalho.com.svg)](https://wakatime.com/badge/gitlab/celorodovalho/admin.marcelorodovalho.com)
+[![time tracker](https://wakatime.com/badge/gitlab/celorodovalho/marcelorodovalho.com.svg)](https://wakatime.com/badge/gitlab/celorodovalho/marcelorodovalho.com)
+
 
 [![Resume](http://img.shields.io/badge/-Resume/CV-29b6f6?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://api.marcelorodovalho.com/resume/en) 
 [![Gitlab](http://img.shields.io/badge/-Gitlab-388e3c?style=for-the-badge&logo=Gitlab&logoColor=white)](https://gitlab.com/celorodovalho) 
