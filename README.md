@@ -4,7 +4,7 @@ Hi there, my name is Marcelo. I'm a Softwre Engineer focused on web development.
 My soft skills includes versatility, persistence, curiosity, resilience. I like to develop creative projects that explore new technologies and trends, using good practices and well-documented codes, easy to maintain.
 Feel free to take a look at my portfolio and drop me a message.
 
-- 👨‍💻 Software Architect / Web Developer
+- 👨‍💻 Software Developer • PHP • Magento • Laravel • Symfony • Vue
 - 🇧🇷 Brazilian
 - 🤘🏻 Heavy Metal
 - 🌷 Reformed
