@@ -57,6 +57,7 @@ Feel free to take a look at my portfolio and drop me a message.
 ![](https://img.shields.io/badge/&#8203;-Telegram_API-informational?style=flat&logo=telegram&logoColor=white&color=29b6f6)
 ![](https://img.shields.io/badge/&#8203;-PHPStorm-informational?style=flat&logo=webstorm&logoColor=white&color=29b6f6)
 ![](https://img.shields.io/badge/&#8203;-Linux-informational?style=flat&logo=linux&logoColor=white&color=29b6f6)
+![](https://img.shields.io/badge/&#8203;-MacOS--9cf?style=flat&logo=linux&logoColor=white&color=29b6f6)
 
 
 [![time tracker](https://wakatime.com/badge/gitlab/celorodovalho/api.marcelorodovalho.com.svg)](https://wakatime.com/badge/gitlab/celorodovalho/api.marcelorodovalho.com)
