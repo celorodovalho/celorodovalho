@@ -5,27 +5,9 @@ My soft skills includes versatility, persistence, curiosity, resilience. I like 
 Feel free to take a look at my portfolio and drop me a message.
 
 - 👨‍💻 Software Architect / Web Developer
-- 🇧🇷 From Brazil
-- 🇳🇱 Living on Netherlands
+- 🇧🇷 Brazilian
+- 🤘🏻 Heavy Metal
 - 🌷 Reformed
-
----
-
-<p align="center">
-  <a href="https://github.com/celorodovalho/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=celorodovalho&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/celorodovalho/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=celorodovalho&show_icons=true"
-    />
-  </a>
-</p>
 
 ---
 
@@ -75,6 +57,8 @@ Feel free to take a look at my portfolio and drop me a message.
 ![](https://img.shields.io/badge/&#8203;-Telegram_API-informational?style=flat&logo=telegram&logoColor=white&color=29b6f6)
 ![](https://img.shields.io/badge/&#8203;-PHPStorm-informational?style=flat&logo=webstorm&logoColor=white&color=29b6f6)
 ![](https://img.shields.io/badge/&#8203;-Linux-informational?style=flat&logo=linux&logoColor=white&color=29b6f6)
+
+
 [![time tracker](https://wakatime.com/badge/gitlab/celorodovalho/api.marcelorodovalho.com.svg)](https://wakatime.com/badge/gitlab/celorodovalho/api.marcelorodovalho.com)
 [![time tracker](https://wakatime.com/badge/gitlab/celorodovalho/admin.marcelorodovalho.com.svg)](https://wakatime.com/badge/gitlab/celorodovalho/admin.marcelorodovalho.com)
 [![time tracker](https://wakatime.com/badge/gitlab/celorodovalho/marcelorodovalho.com.svg)](https://wakatime.com/badge/gitlab/celorodovalho/marcelorodovalho.com)
@@ -94,21 +78,6 @@ Feel free to take a look at my portfolio and drop me a message.
 ---
 
 <p align="center">
-  <a href="https://github.com/celorodovalho/github-readme-stats">
-    <img
-      align="center"
-      src="https://metrics.lecoq.io/celorodovalho"
-    />
-  </a>
-  <a href="https://github.com/celorodovalho/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=celorodovalho"
-    />
-  </a>
-</p>
-<p align="center">
   <a href="https://wakatime.com">
     <img src="https://wakatime.com/share/@celorodovalho/d44e7356-0121-4cc4-8e39-c4f3f51ffb17.png" width="49%" style="float: left"/>
   </a>
@@ -116,7 +85,3 @@ Feel free to take a look at my portfolio and drop me a message.
     <img src="https://wakatime.com/share/@celorodovalho/2772bc59-44af-403c-9b51-808be7a95d60.png" width="49%" />
   </a>
 </p>
-
----
-
-![Profile views](https://gpvc.arturio.dev/celorodovalho)  
