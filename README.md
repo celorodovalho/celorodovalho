@@ -40,20 +40,41 @@ I build well-documented, maintainable web applications, mostly with PHP and Vue.
 ![](https://img.shields.io/badge/&#8203;-Linux-informational?style=flat&logo=linux&logoColor=white&color=29b6f6)
 
 <details>
-<summary>Also worked with</summary>
+<summary>Also worked with (full career stack)</summary>
 <br>
 
+![](https://img.shields.io/badge/&#8203;-HTML5-informational?style=flat&logo=html5&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-CSS3-informational?style=flat&logo=css3&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-Sass-informational?style=flat&logo=sass&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-Angular-informational?style=flat&logo=angular&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-LeafLet-informational?style=flat&logo=leaflet&logoColor=white&color=90a4ae)
 ![](https://img.shields.io/badge/&#8203;-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=90a4ae)
 ![](https://img.shields.io/badge/&#8203;-Zend_Framework-informational?style=flat&logo=zend&logoColor=white&color=90a4ae)
 ![](https://img.shields.io/badge/&#8203;-CakePHP-informational?style=flat&logo=cakephp&logoColor=white&color=90a4ae)
 ![](https://img.shields.io/badge/&#8203;-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=90a4ae)
 ![](https://img.shields.io/badge/&#8203;-Magento-informational?style=flat&logo=magento&logoColor=white&color=90a4ae)
-![](https://img.shields.io/badge/&#8203;-Angular-informational?style=flat&logo=angular&logoColor=white&color=90a4ae)
-![](https://img.shields.io/badge/&#8203;-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=90a4ae)
-![](https://img.shields.io/badge/&#8203;-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=90a4ae)
-![](https://img.shields.io/badge/&#8203;-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=90a4ae)
 ![](https://img.shields.io/badge/&#8203;-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-OracleSQL-informational?style=flat&logo=oracle&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-Node-informational?style=flat&logo=node.js&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-NPM-informational?style=flat&logo=npm&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-Composer-informational?style=flat&logo=composer&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-Apache-informational?style=flat&logo=apache&logoColor=white&color=90a4ae)
 ![](https://img.shields.io/badge/&#8203;-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-Sonar-informational?style=flat&logo=sonarqube&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-Telegram_API-informational?style=flat&logo=telegram&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-PHPStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-Adobe_Suite-informational?style=flat&logo=adobe&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-Gimp-informational?style=flat&logo=gimp&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-InkScape-informational?style=flat&logo=inkscape&logoColor=white&color=90a4ae)
+![](https://img.shields.io/badge/&#8203;-MacOS-informational?style=flat&logo=apple&logoColor=white&color=90a4ae)
 
 </details>
 
