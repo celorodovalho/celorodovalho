@@ -15,11 +15,11 @@ I build well-documented, maintainable web applications, mostly with PHP and Vue.
 - 🤘🏻 Heavy Metal
 - 🌷 Reformed
 - 🌱 Currently building my own stuff
-  - rodovalho.dev - Personal Portfolio
-  - dnd.rodovalho.dev - My D&D Group Management
-  - grana.rodovalho.dev - Financial Management Board
-  - dms.rodovalho.dev - Document Management System
-  - acervo.rodovalho.dev - Family's Library Management
+  - [rodovalho.dev](https://rodovalho.dev) - Personal Portfolio
+  - [dnd.rodovalho.dev](https://dnd.rodovalho.dev) - My D&D Group Management
+  - [grana.rodovalho.dev](https://grana.rodovalho.dev) - Financial Management Board
+  - [dms.rodovalho.dev](https://dms.rodovalho.dev) - Document Management System
+  - [acervo.rodovalho.dev](https://acervo.rodovalho.dev) - Family's Library Management
 
 ---
 
