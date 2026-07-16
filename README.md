@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/475722?v=4" width="120" style="border-radius:50%" alt="Marcelo Rodovalho" />
+![I am Software Developer](https://marcelorodovalho.com/img/logo-large.59fa6dbf.svg)
 
 # Hi, I'm Marcelo 👋
 
